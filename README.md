@@ -22,3 +22,4 @@
 ## Intereses 😁
 * Descubrir nuevas Tecnologias
 * Hacer deportes
+* Cocinar
