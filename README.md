@@ -19,7 +19,6 @@
 * App de Contactos
 * App de ventas de Pizza
 
-## Intereses
+## Intereses 😁
 * Descubrir nuevas Tecnologias
 * Hacer deportes
-* 
