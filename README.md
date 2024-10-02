@@ -4,6 +4,18 @@
 
 ## Contenido
 
-* [Información personal!](#información-personal)
+* [Información personal](#información-personal)
 * [Proyectos](#proyectos)
 * [Intereses](#intereses)
+
+## Información personal
+* Nombre: [Alex Benites Segura]
+* Ocupación: [Estudiante en Ing. de Computacion]
+* Lugar de residencia: [Guayas-Chongon]
+* Sitio web: [@AxelBenites]
+  
+## Proyectos
+* [Lista de tus proyectos]
+
+## Intereses
+* [Lista de tus intereses]
