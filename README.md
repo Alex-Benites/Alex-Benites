@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://i.imgur.com/bFjQLDR.png" alt="Mi Logo" width="300" height="300" style="border-radius: 50%;"/>
   
-  <h1>Hola Mundo, Soy Alex Benites ✌️✨</h1>
+  <h1>¡Hola Mundo ✌️! Soy Alex Benites</h1>
   
   <p>
     ¡Bienvenido a mi sitio personal! Soy estudiante de <strong>Ingeniería en Computación</strong> con pasión por la tecnología y el desarrollo de software. Me encanta aprender y explorar nuevas tecnologías, así como contribuir a proyectos interesantes. Aquí encontrarás una colección de mis proyectos personales destacados.
