@@ -45,6 +45,10 @@
 - Herramientas:
   - Git
   - Visual Studio Code
+ 
+<div align="center">
+  <img src="https://i.imgur.com/HkK1exk.jpg" alt="Mi Logo" width="300" height="300" style="border-radius: 50%;"/>
+</div>
   
 ## 🌟 Proyectos 
 * Juego de Tres en Raya
