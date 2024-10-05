@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://i.imgur.com/lBfWk5b.jpg" alt="Mi Logo" width="300"/>
+  <img src="https://i.imgur.com/lBfWk5b.jpg" alt="Mi Logo" width="300" style="border-radius: 50%;"/>
 </div>
 
 # ¡Hola Mundo ✌!, Soy Alex Benites 
