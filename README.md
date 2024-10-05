@@ -1,5 +1,7 @@
 
-![WhatsApp Image 2024-10-04 at 21 22 13](https://github.com/user-attachments/assets/4a4d8cc7-f4dc-42b7-8b84-6288a405e0bb)
+<div align="center">
+  <img src="https://i.imgur.com/lBfWk5b.jpg" alt="Mi Logo" width="300"/>
+</div>
 
 # ¡Hola Mundo ✌!, Soy Alex Benites 
 
