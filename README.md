@@ -40,23 +40,23 @@
 
 <table>
   <tr>
-    <th style="padding: 20px;">Lenguajes</th>
-    <th style="padding: 20px;">Frameworks</th>
-    <th style="padding: 20px;">Herramientas</th>
+    <th style="padding: 40px;">Lenguajes</th> <!-- Aumenta el padding aquí -->
+    <th style="padding: 40px;">Frameworks</th> <!-- Aumenta el padding aquí -->
+    <th style="padding: 40px;">Herramientas</th> <!-- Aumenta el padding aquí -->
   </tr>
   <tr>
-    <td align="center" style="padding: 20px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="60" height="60"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="60"/>
+    <td align="center" style="padding: 40px;"> <!-- Aumenta el padding aquí -->
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="60" height="60" style="padding: 10px;"/> <!-- Aumenta el padding aquí -->
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="60" height="60" style="padding: 10px;"/> <!-- Aumenta el padding aquí -->
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="60" style="padding: 10px;"/> <!-- Aumenta el padding aquí -->
     </td>
-    <td align="center" style="padding: 20px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="60" height="60"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" width="60" height="60"/>
+    <td align="center" style="padding: 40px;"> <!-- Aumenta el padding aquí -->
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="60" height="60" style="padding: 10px;"/> <!-- Aumenta el padding aquí -->
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" width="60" height="60" style="padding: 10px;"/> <!-- Aumenta el padding aquí -->
     </td>
-    <td align="center" style="padding: 20px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="60" height="60"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="60" height="60"/>
+    <td align="center" style="padding: 40px;"> <!-- Aumenta el padding aquí -->
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="60" height="60" style="padding: 10px;"/> <!-- Aumenta el padding aquí -->
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="60" height="60" style="padding: 10px;"/> <!-- Aumenta el padding aquí -->
     </td>
   </tr>
 </table>
