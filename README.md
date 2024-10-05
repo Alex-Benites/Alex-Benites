@@ -16,11 +16,16 @@
 
 ## Contenido 
 
-* [Información personal](#información-personal)
+* [🧑‍💻 Información personal](#información-personal)
+* [🔧 Tecnologías y Herramientas](#Tecnologías-y-Herramientas)
 * [Proyectos](#proyectos)
 * [Intereses](#intereses)
-* [Tecnologías y Herramientas](#Tecnologías-y-Herramientas)
-* [Contacto](#contacto)
+* [📫 Contacto](#contacto)
+
+## 🧑‍💻 Información personal 
+* Nombre: Alex Benites Segura
+* Ocupación: Estudiante en Ing. de Computacion
+* Lugar de residencia: Ecuador-Guayas
 
 ## 🔧 Tecnologías y Herramientas
 
@@ -36,11 +41,6 @@
 - Herramientas:
   - Git
   - Visual Studio Code
-
-## 🧑‍💻 Información personal 
-* Nombre: Alex Benites Segura
-* Ocupación: Estudiante en Ing. de Computacion
-* Lugar de residencia: Ecuador-Guayas
   
 ## 🌟 Proyectos 
 * Juego de Tres en Raya
@@ -54,11 +54,11 @@
 
 ## 🎓 Educación
 
-* **[Escuela Superior Politecnica del Litoral]** — Ingeniería en Computación  
-  [13 Mayo del 2022] - Presente
+* **Escuela Superior Politecnica del Litoral** — Ingeniería en Computación  
+  13 Mayo del 2022 - Presente
   
 ## 📫 Conecta conmigo
 
-- [LinkedIn](enlace-a-tu-linkedin)
-- [Instagram](enlace-a-tu-twitter)
-- [Correo electrónico](mailto:benitesseguraa@gmail.com)
+- [LinkedIn](www.linkedin.com/in/alex-benites-267676280)
+- [Instagram](https://www.instagram.com/axel_benites/profilecard/?igsh=MW0ya3FqeWQ1ZTA3dw==)
+- [Correo electrónico](benitesseguraa@gmail.com)
