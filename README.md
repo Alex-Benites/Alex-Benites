@@ -36,19 +36,47 @@
 
 ## 🔧 Tecnologías y Herramientas
 
-- Lenguajes: 
-  - Python
-  - SQL
-  - Java
+<div align="center">
 
-- Frameworks y Librerías:
-  - React
-  - Node.js
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
+      <p>Python</p>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="60" height="60"/>
+      <p>Java</p>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="60" height="60"/>
+      <p>SQL</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="60" height="60"/>
+      <p>React</p>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" width="60" height="60"/>
+      <p>Node.js</p>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="60" height="60"/>
+      <p>Git</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="3">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="60" height="60"/>
+      <p>Visual Studio Code</p>
+    </td>
+  </tr>
+</table>
 
-- Herramientas:
-  - Git
-  - Visual Studio Code
-  
+</div>
+
 ## 🌟 Proyectos 
 * Juego de Tres en Raya
 * App de Contactos
