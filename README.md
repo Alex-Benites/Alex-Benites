@@ -36,50 +36,48 @@
 
 ## 🔧 Tecnologías y Herramientas
 
-## 🔧 Tecnologías y Herramientas
-
 <div align="center">
 
 <table>
   <tr>
-    <th>Lenguajes</th>
-    <th>Frameworks</th>
-    <th>Herramientas</th>
+    <th style="padding: 20px;">Lenguajes</th>
+    <th style="padding: 20px;">Frameworks</th>
+    <th style="padding: 20px;">Herramientas</th>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center" style="padding: 20px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
       <p>Python</p>
     </td>
-    <td align="center">
+    <td align="center" style="padding: 20px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="60" height="60"/>
       <p>React</p>
     </td>
-    <td align="center">
+    <td align="center" style="padding: 20px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="60" height="60"/>
       <p>Git</p>
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center" style="padding: 20px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="60" height="60"/>
       <p>Java</p>
     </td>
-    <td align="center">
+    <td align="center" style="padding: 20px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" width="60" height="60"/>
       <p>Node.js</p>
     </td>
-    <td align="center">
+    <td align="center" style="padding: 20px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="60" height="60"/>
       <p>Visual Studio Code</p>
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center" style="padding: 20px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="60"/>
       <p>MySQL</p>
     </td>
-    <td align="center" colspan="2"></td> <!-- Espacio vacío para mantener el formato -->
+    <td align="center" colspan="2" style="padding: 20px;"></td> <!-- Espacio vacío para mantener el formato -->
   </tr>
 </table>
 
