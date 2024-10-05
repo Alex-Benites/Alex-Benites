@@ -30,7 +30,7 @@
 
 
 ## 🧑‍💻 Información personal 
-* Nombre: Alex Benites Segura
+* Nombre: Alex Sebastian Benites Segura
 * Ocupación: Estudiante en Ing. de Computacion
 * Lugar de residencia: Ecuador-Guayas
 
